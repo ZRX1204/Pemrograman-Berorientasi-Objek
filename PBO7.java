@@ -11,6 +11,7 @@ import java.util.*;
  *
  * @author ZRX1204
  */
+
 public class PBO7 {
     public static void main(String[] args) {
         int jumlahPeserta;
